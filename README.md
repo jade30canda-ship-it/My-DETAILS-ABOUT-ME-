@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cyril Jade Canda</h1>
 <h3 align="center">A passionate frontend developer from Philipines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jade30canda-ship-it&label=Profile%20views&color=0e75b6&style=flat" alt="jade30canda-ship-it" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jade30canda-ship-it" alt="jade30canda-ship-it" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
